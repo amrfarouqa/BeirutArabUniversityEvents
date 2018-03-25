@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eventon Sync\n"
+"POT-Creation-Date: 2015-05-26 21:54-0800\n"
+"PO-Revision-Date: 2015-05-26 21:54-0800\n"
+"Last-Translator: Ashan Perera <ashanster@gmail.com>\n"
+"Language-Team: AJDE\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../eventon-sync-events.php:55
+msgid "EventON is required for this addon to work properly."
+msgstr ""
+
+#: ../eventon-sync-events.php:105
+msgid "Settings"
+msgstr ""
+
+#: ../includes/admin/class-admin-init.php:24
+#: ../includes/admin/class-settings.php:109
+msgid "Sync Events"
+msgstr ""
+
+#: ../includes/admin/class-admin_check.php:79
+#, php-format
+msgid "EventON %s is enabled but not effective. "
+msgstr ""
+
+#: ../includes/admin/class-settings.php:47
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:48
+msgid "Sync"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:66
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ../includes/admin/class-settings.php:72
+msgid "Sync Events Settings"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:108
+msgid "Sync Settings"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:122
+msgid "Sync Settings for Facebook"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:123
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:134
+msgid "Sync Settings for Google Calendar"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:135
+msgid "Google Calendar"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:147
+msgid "Settings Saved"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:155
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:207
+msgid "Facebook App ID/ Secret Key missing!"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:215
+msgid "Google App ID/ Cal ID missing!"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:224
+msgid ""
+"Select the option below to start fetching events from external source. Prior "
+"to start fetching process, make sure required information in facebook & "
+"Google calendar API is filled under General Settings. Otherwise it will not "
+"pull events correctly."
+msgstr ""
+
+#: ../includes/admin/class-settings.php:225
+msgid "Fetch Events from Facebook"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:225
+#: ../includes/admin/class-settings.php:227
+msgid "Required API Information Missing!"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:227
+msgid "Fetch Events from Google Calendar"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:246
+msgid "Step 2: Select fetched events"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:247
+msgid ""
+"Select events to import to eventON calendar from the fetched events below."
+msgstr ""
+
+#: ../includes/admin/class-settings.php:254
+msgid "Status"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:255
+msgid "Event Time"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:256
+msgid "Event Name"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:301
+msgid "Sync already imported events"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:306
+msgid "next: Import Selected Events"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:318
+#: ../includes/admin/class-settings.php:326
+msgid "<h2>Not Imported</h2>"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:319
+#: ../includes/admin/class-settings.php:327
+msgid "No events were selected for importing."
+msgstr ""
+
+#: ../includes/admin/class-settings.php:366
+msgid "<h2>Complete!</h2>"
+msgstr ""
+
+#: ../includes/admin/class-settings.php:545
+#: ../includes/admin/class-settings.php:549
+msgid "Could not verify submission. Please try again."
+msgstr ""

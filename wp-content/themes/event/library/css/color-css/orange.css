@@ -1,0 +1,55 @@
+/*
+ * ==========
+ * Color Code
+ * ==========
+ * Primary Color: #ed5f30
+ * Secondary Color: #DB6138
+ */
+ 
+/*color*/
+a,.main-nav li.active > a,.login-details .pri-color,.login-details  a:hover,.main-nav a:hover,.event .links a:hover,.pri-color,.recent-content a:hover,.event-full-width h3 a:hover,.event-detail h3 a:hover,.meta a:hover,#aside .top-ppost .title a:hover,.speakers .speaker-content .meta a:hover,.search button:hover,#contactform span,.blog .event-content .title:hover a,.single-blog .title a:hover,.event .title a:hover,.itemlist .event-content .meta li a:hover,#aside .widget .widget-list a:hover,#aside .top-ppost .meta:hover,.recent-blog .title a:hover,.recent-content .comment a:hover,#aside .categories li a:hover, #aside .categories a:hover:before,.eventsicon.color,#aside li a:hover,.recentTweets li:before,#aside .recentTweets li a,.footer .widget.recentTweets li:before,.footer a:hover,.top-post .title a:hover,#wp-calendar tbody td a,.main-nav li.current-menu-item > a, .pix-megamenu .sub-menu li .sub-menu li a:hover,.woo-product-item .title a:hover,.woo-cart-dropdown a:hover{
+	color:#ed5f30;
+}
+
+/*background*/
+.btn-solid.btn-blue,.testimonials .testimonials-content,.ticket-resgister .btn-pri,.both-btn .find-events a,.bx-wrapper .bx-controls-direction a:hover,.btn-disabled:hover,#aside .categories a:hover .numbers,#aside .tag a:hover,.ui-slider-horizontal .ui-widget-header,.video-icon,.ui-state-default.ui-tabs-active a,.form-submit #submit,.event.bg.add_bg_hover:hover,.btn-solid.btn-grey:hover,.plus:hover, .minus:hover,.comments .comment-reply-link:hover,.eventform-con .event-filter li.active,#wp-calendar thead,.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,.btn-pri,#aside .cart button,.woocommerce-pagination .page-numbers li .page-numbers.current, .woocommerce-pagination .page-numbers li .page-numbers:hover,.summary .single_add_to_cart_button,.button, .reset_variations, .form-submit #submit,.tagcloud a:hover,#wp-calendar tbody td#today,.mobile-menu-icon,.owl-theme .owl-controls .owl-buttons div:hover,.wpcf7 .wpcf7-submit,.added_to_cart:hover,.shipping-calculator-button,.pix-item-icon{
+	background:#ed5f30;
+}
+
+
+#aside .testimonials-content .arrow-down{
+	border-top-color: #ed5f30;
+}
+
+.ui-tabs .ui-state-default.ui-tabs-active,.eventsicon.round-border.color, .eventsicon.square-border.color,.woocommerce-pagination .page-numbers li .page-numbers.current, .woocommerce-pagination .page-numbers li .page-numbers:hover,.mobile-menu-icon{
+	border-color: #ed5f30;
+}
+
+input:focus, textarea:focus{
+	box-shadow:none; 
+	border: 1px solid #ed5f30;
+  }
+
+/*background-color-Two*/
+aside .header,.both-btn .but-ticket a,.sb-search.sb-search-open .sb-icon-search,.border-cover .btn,#aside .cart-ticket .price,.xdsoft_datetimepicker .xdsoft_calendar td:hover, .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div:hover,.woocommerce-result-count,.staff-img:hover .staff-icons,.added_to_cart,.shop_table .coupon .button,.shop_table .button.checkout-button,#aside .widget_shopping_cart .button.checkout,.footer .widget_shopping_cart .button.checkout{
+	background:#DB6138;
+}
+
+#aside .header .arrow-down{
+	border-top-color: #DB6138;
+}
+
+.eventform .form-input input,.eventform input::-webkit-input-placeholder,.eventform .form-input .icon,.eventform .styled-select select,.eventform .styled-select:before{
+	color:#DB6138;
+}
+
+.eventform input:-ms-input-placeholder{
+	color:#DB6138;
+}
+.eventform input:-moz-input-placeholder{
+	color:#DB6138;
+}
+
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current{
+	box-shadow: none;
+}

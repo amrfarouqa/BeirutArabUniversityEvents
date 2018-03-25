@@ -1,0 +1,104 @@
+/** 
+ * Styles for admin
+ */
+.evo_settings_box{
+	margin-top: 10px;
+}
+.evo_diag {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-left: 155px;
+}
+.evo_diag a {
+  opacity: 0.3;
+}
+
+#evosy_fetched_events{
+	
+}
+#evosy_fetched_events td{
+	border-bottom:1px solid #D9D7D7;	
+	cursor: pointer;
+	margin: 0;
+}
+#evosy_fetched_events tbody tr:hover{
+	background-color: #FDF0D2
+}
+#evosy_fetched_events tbody tr.ss{
+	background-color: #FDFAF3
+}
+
+#evosy_fetched_events span.status.ns{
+	display: block;
+	position: relative;
+	margin-top: 8px;
+	margin-left: 8px;
+}
+#evosy_fetched_events span.status.ns:before{
+	content:"";
+	position: absolute;
+	width: 18px;
+	height: 6px;
+	background-color: #EABB86;
+	left: 0px;
+	top: 0px;
+}
+
+#evosy_fetched_events span.status.ss,#evosy_fetched_events span.status.as{
+	display:inline-block;
+    width: 18px;
+    height:18px;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+    margin-left: 10px;
+    margin-top: 2px;
+}
+	#evosy_fetched_events span.status.ss:after, #evosy_fetched_events span.status.as:after{
+		content: "";
+ 		position: absolute;
+  		width: 6px;
+  		height: 6px;
+  		background-color: #EABB86;
+  		left: 0px;
+  		top: 12px;
+	}
+	#evosy_fetched_events span.status.ss:before, #evosy_fetched_events span.status.as:before{
+		content: "";
+	  	position: absolute;
+	  	width: 6px;
+	  	height: 18px;
+	  	background-color: #EABB86;
+	  	left: 6px;
+	  	top: 0px;
+	}
+	#evosy_fetched_events span.status.as:after, #evosy_fetched_events span.status.as:before{
+		background-color: #D5D5D5
+	}
+
+
+#evosy_fetched_events span.time{
+	margin-right: 10px;
+	background-color: #E5E5E5;
+	display: inline-block;
+  	padding: 0 5px;
+  	line-height: 23px;
+}
+#evosy_fetched_events table{
+	  -webkit-box-shadow: none;
+  	box-shadow: none;
+  	background-color: #fff;
+  	border: 1px solid #e5e5e5;
+  	border-spacing: 0;
+  	width: 100%;
+  	clear: both;
+  	margin: 0;
+}
+#evosy_fetched_events table td{
+	padding: 8px 10px;
+}
+.evo_settings_box .sync_msg{
+	background-color: #FFF4E8;
+	margin: -11px -12px 0;
+	padding: 10px;
+}
